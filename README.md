@@ -1,2 +1,5 @@
 # gettingRusty
-rust playground project to learn
+Playground project to learn Rust
+
+## Useful links
+- https://doc.rust-lang.org/book/
