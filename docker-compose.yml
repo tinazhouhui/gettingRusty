@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  server:
+    image: 'rust:1.75.0'
+#    env_file:
+#      - .env
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: sleep infinity
